@@ -1,0 +1,58 @@
+# אמיר מוטורס — Generative Engine Optimization Map
+
+> A רכב ומכירות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-3a392b6a.zappy5.app
+אמיר מוטורס - סוכנות למכירת רכב מובילה המציעה רכבים היברידיים וחשמליים לנהגים ידידותיים לסביבה וגמלאים. חווית קנייה יוקרתית ומקצועית.
+
+### השירותים שלנו
+https://-3a392b6a.zappy5.app/services
+גלה את מגוון השירותים של אמיר מוטורס: רכבים חשמליים, היברידיים, מימון גמיש, טריד אין והחלפה. סוכנות למכירת רכב עם שירות מקצועי ואישי.
+
+### אודות
+https://-3a392b6a.zappy5.app/about
+הכירו את אמיר מוטורס - סוכנות למכירת רכב עם שנים של ניסיון, מחויבות לשירות מעולה ולקידום רכבים ידידותיים לסביבה. הסיפור, הערכים והצוות שלנו.
+
+### צור קשר
+https://-3a392b6a.zappy5.app/contact
+צור קשר עם אמיר מוטורס סוכנות רכב לייעוץ אישי, הצעת מחיר או לכל שאלה. הצוות המקצועי שלנו זמין לשירותך עם פתרונות רכב במימון מלא החלפה וטריד אין.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3a392b6a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3a392b6a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3a392b6a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אמיר מוטורס
+אמיר מוטורס is a business in the רכב ומכירות industry.
+
+## Target Audience
+- נהגים ידידותיים לסביבה
+- גמלאים עם אמצעים
+
+## Industry
+רכב ומכירות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-3a392b6a.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-3a392b6a.zappy5.app/robots.txt
